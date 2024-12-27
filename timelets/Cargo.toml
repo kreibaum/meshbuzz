@@ -1,0 +1,7 @@
+[package]
+name = "timelets"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+meshbuzz-base = { path = "../meshbuzz-base" }

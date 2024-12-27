@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+  "meshbuzz-base",
+  "meshbuzz-esp32",
+  "meshbuzz-pc",
+  "timelets"
+]
+
+resolver = "2"
